@@ -8,17 +8,23 @@
 <br>
 
 <h2>🌐 Encuéntrame en:</h2>
-<p>
+<ul>
+   <li>
   <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
     <img src="" alt="" style="vertical-align:middle; margin-right:10px;">
     - LinkedIn
   </a><br><br>
-  <a href="https://my-profile-phi-three.vercel.app" target="_blank">
+     </li>
+  <li>
+    <a href="https://my-profile-phi-three.vercel.app" target="_blank">
      <img src="" alt="" style="vertical-align:middle; margin-right:10px;">
     - My Profile
   </a><br>
-<p>- Email: coliveramispireta@gmail.com</p>
-</p>
+  </li>
+<li>
+  <p>- Email: coliveramispireta@gmail.com</p>
+  </li>
+</ul>ul>
 
 <hr>
 <br><br>
