@@ -2,9 +2,9 @@
 <br>
 <img src="https://github.com/coliveramispireta/assets-images/blob/main/PortadaLinkedinSTUDENTS.png?raw=true" alt="" >
 
-<p align="center">
+<h3 align="center">
   Soy un desarrollador frontend de Lima-Perú, especializado en <strong>Next.js</strong>, apasionado por construir aplicaciones web modernas y eficientes. Me encanta trabajar en proyectos que involucran <strong>datos en tiempo real</strong> e <strong>interfaces de usuario interactivas</strong>.
-</p>
+</h3>
 <br>
 
 <h2>🌐 Encuéntrame en:</h2>
@@ -12,19 +12,21 @@
    <li>
   <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
     <img src="" alt="" style="vertical-align:middle; margin-right:10px;">
-    - LinkedIn
+     LinkedIn
   </a><br><br>
      </li>
   <li>
     <a href="https://my-profile-phi-three.vercel.app" target="_blank">
      <img src="" alt="" style="vertical-align:middle; margin-right:10px;">
-    - My Profile
+     My Profile
   </a><br>
   </li>
 <li>
-  <p>- Email: coliveramispireta@gmail.com</p>
+  <p> 
+    Email: coliveramispireta@gmail.com
+  </p>
   </li>
-</ul>ul>
+</ul>
 
 <hr>
 <br><br>
