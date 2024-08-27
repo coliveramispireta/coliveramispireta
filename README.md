@@ -70,17 +70,8 @@
 <img src="https://img.shields.io/badge/-DEMO-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>
-  Un e-commerce completo con:
-  <ul>
-    <li>Backend Express y Frontend NextJs</li>
-    <li>Login </li>
-    <li>Datos encriptados con JWT</li>
-    <li>Vinculación con Cloudinary para manejo de imágenes</li>
-    <li>Diseño responsive</li>
-    <li>Y mucho más...</li>
-  </ul>
-</p>
+
+
 </div>
                                                                                       
 </td>
@@ -100,20 +91,31 @@
 </a>
 </p>
 </p>
-<p>
-  Un sistema completo que incluye:
-  <ul>
-    <li>Backend NestJs y Frontend NextJs</li>
-    <li>Geolocalización</li>
-    <li>Chat en tiempo real</li>
-    <li>Chatbot</li>
-    <li>Gráficos estadísticos con Chart.js</li>
-    <li>Componentes dinámicos y sidebar</li>
-    <li>Autenticación con Auth0</li>
-    <li>Seguridad con JWT y componentes de alerta</li>
-    <li>Pasarela de pagos</li>
-  </ul>
-</p>
+  <h5> Un e-commerce completo con: </h5>
+  <p>
+    Backend Express y Frontend NextJs
+    Login 
+    Datos encriptados con JWT
+    Vinculación con Cloudinary para manejo de imágenes
+    Diseño responsive
+    Y mucho más...
+  </p>
+  
+<h5> Un sistema completo que incluye: </h5>
+  <p>
+    Backend NestJs y Frontend NextJs
+    Geolocalización
+    Chat en tiempo real
+    Chatbot
+    Gráficos estadísticos con Chart.js
+    Componentes dinámicos y sidebar
+    Autenticación con Auth0
+    Seguridad con JWT y componentes de alerta
+    Pasarela de pagos
+  </p>
+  
+
+
 </p>
 </div>                                                             
 </table> 
