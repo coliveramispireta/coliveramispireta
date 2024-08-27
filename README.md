@@ -108,9 +108,9 @@
   <br>
 
 <div align="center">
- <h3>
-   Tengo por <a> 🎯 Objetivo </a> Mejorar mis habilidades en <a>optimización de rendimiento</a> para aplicaciones Next.js y contribuir a proyectos <a>open-source</a> colaborando con otros desarrolladores.
- </h3> 
+ <h2>
+ 🎯  Tengo por <a hreft="https://my-profile-phi-three.vercel.app/">  Objetivo </a> Mejorar mis habilidades en <a hreft="https://my-profile-phi-three.vercel.app/">optimización de rendimiento</a> para aplicaciones Next.js y contribuir a proyectos <a hreft="https://my-profile-phi-three.vercel.app/">open-source</a> colaborando con otros desarrolladores.
+ </2> 
 </div>
 
 
