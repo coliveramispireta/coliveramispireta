@@ -10,21 +10,19 @@
 <h2>🌐 Encuéntrame en:</h2>
 <ul>
    <li>
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
-    <img src="" alt="" style="vertical-align:middle; margin-right:10px;">
+  <h4> <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
      LinkedIn
-  </a><br><br>
+  </a> </h4>
      </li>
   <li>
-    <a href="https://my-profile-phi-three.vercel.app" target="_blank">
-     <img src="" alt="" style="vertical-align:middle; margin-right:10px;">
+    <h4> <a href="https://my-profile-phi-three.vercel.app" target="_blank">
      My Profile
-  </a><br>
+  </a> </h4>
   </li>
 <li>
-  <p> 
+  <h4> 
     Email: coliveramispireta@gmail.com
-  </p>
+  </h4>
   </li>
 </ul>
 
