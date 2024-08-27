@@ -94,9 +94,9 @@
 </a>
 </p>
 </p>
-  <h3> Un e-commerce completo con: </h3>
+  <h3> Un e-commerce completo que incluye: </h3>
   <p>
-    Backend Express y Frontend NextJs, Login, Datos encriptados con JWT, Vinculación con Cloudinary para manejo de imágenes, Diseño responsive, y mucho más...
+    Backend Express y Frontend NextJs, Login, Datos encriptados con JWT, Vinculación con Cloudinary para manejo de imágenes, Diseño responsive, y mucho más... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   
 
