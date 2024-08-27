@@ -70,7 +70,10 @@
 <img src="https://img.shields.io/badge/-DEMO-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-
+<h3> Un sistema completo que incluye: </h3>
+  <p>
+    Backend NestJs y Frontend NextJs, Geolocalización, Chat en tiempo real, Chatbot, Gráficos estadísticos con Chart.js, Componentes dinámicos y sidebar, Autenticación con Auth0, Seguridad con JWT y componentes de alerta, Pasarela de pagos y mas...
+  </p>
 
 </div>
                                                                                       
@@ -91,28 +94,12 @@
 </a>
 </p>
 </p>
-  <h5> Un e-commerce completo con: </h5>
+  <h3> Un e-commerce completo con: </h3>
   <p>
-    Backend Express y Frontend NextJs
-    Login 
-    Datos encriptados con JWT
-    Vinculación con Cloudinary para manejo de imágenes
-    Diseño responsive
-    Y mucho más...
+    Backend Express y Frontend NextJs, Login, Datos encriptados con JWT, Vinculación con Cloudinary para manejo de imágenes, Diseño responsive, y mucho más...
   </p>
   
-<h5> Un sistema completo que incluye: </h5>
-  <p>
-    Backend NestJs y Frontend NextJs
-    Geolocalización
-    Chat en tiempo real
-    Chatbot
-    Gráficos estadísticos con Chart.js
-    Componentes dinámicos y sidebar
-    Autenticación con Auth0
-    Seguridad con JWT y componentes de alerta
-    Pasarela de pagos
-  </p>
+
   
 
 
