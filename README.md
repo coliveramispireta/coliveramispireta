@@ -42,13 +42,13 @@
 </div>
 <br>
 <br>
-   <li list-style-type="none" align="center">
+   <div list-style-type="none" align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"  width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"  width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"  width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;
-</li>
+</div>
 </ul>
  
 
