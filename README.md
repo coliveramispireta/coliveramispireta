@@ -110,9 +110,11 @@
 
  <h1 align="center">
  🎯  Tengo por 
-   <a hreft="https://my-profile-phi-three.vercel.app/" target="_blank">  Objetivo </a> 
+   <a href="https://my-profile-phi-three.vercel.app/" target="_blank">  Objetivo </a> 
    Mejorar mis habilidades en 
-  
+   <a href="https://my-profile-phi-three.vercel.app/">optimización de rendimiento</a> 
+   para aplicaciones Next.js y contribuir a proyectos 
+   <a href="https://my-profile-phi-three.vercel.app/"> open-source</a> 
    colaborando con otros desarrolladores.
  </h1> 
 
