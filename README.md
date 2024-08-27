@@ -2,9 +2,9 @@
 <br>
 <img src="https://github.com/coliveramispireta/assets-images/blob/main/PortadaLinkedinSTUDENTS.png?raw=true" alt="" >
 
-<h3 align="center">
+<h4 align="center">
   Soy un desarrollador frontend de Lima-Perú, especializado en <strong>Next.js</strong>, apasionado por construir aplicaciones web modernas y eficientes. Me encanta trabajar en proyectos que involucran <strong>datos en tiempo real</strong> e <strong>interfaces de usuario interactivas</strong>.
-</h3>
+</h4>
 <br>
 
 <h2>🌐 Encuéntrame en:</h2>
