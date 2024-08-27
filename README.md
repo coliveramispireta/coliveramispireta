@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Carlos Olivera Mispireta 👋</h1>
+<h1 align="center">Hola, soy  <a href="[https://www.linkedin.com/in/tu-usuario](https://my-profile-phi-three.vercel.app/)" target="_blank">Carlos Olivera Mispireta </a> 👋</h1>
 <br>
 <img src="https://github.com/coliveramispireta/assets-images/blob/main/PortadaLinkedinSTUDENTS.png?raw=true" alt="" >
 
