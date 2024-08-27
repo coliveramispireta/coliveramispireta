@@ -103,12 +103,9 @@
 </div>                                                             
 </table> 
 
-
-
   <br>
 
-
- <h2 align="center">
+ <h3 align="center">
  🎯  Tengo por 
    <a href="https://my-profile-phi-three.vercel.app/" target="_blank">  Objetivo </a> 
    Mejorar mis habilidades en 
@@ -116,11 +113,7 @@
    para aplicaciones Next.js y contribuir a proyectos 
    <a href="https://my-profile-phi-three.vercel.app/"> open-source</a> 
    colaborando con otros desarrolladores.
- </h2> 
-
-
-
-
+ </h3> 
 
 <br>
 <p align="center"><em>"Code is like humor. When you have to explain it, it’s bad." - Cory House</em></p>
