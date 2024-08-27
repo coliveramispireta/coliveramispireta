@@ -59,7 +59,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto Final Henry: Sistema de Administración Empresa</h3>
+<h3 align="center">Proyecto: Sistema de Administración Empresa</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/coliveramispireta/assets-images/blob/main/Proyect.PNG?raw=true" width="400" alt="Curso básico android"></a>
 <p>
@@ -72,7 +72,7 @@
 </p>
 <h3> Un sistema completo que incluye: </h3>
   <p>
-    Backend NestJs y Frontend NextJs, Geolocalización, Chat en tiempo real, Chatbot, Gráficos estadísticos con Chart.js, Componentes dinámicos y sidebar, Autenticación con Auth0, Seguridad con JWT y componentes de alerta, Pasarela de pagos y mas...
+    Backend NestJs y Frontend NextJs, Geolocalización, Chat en tiempo real, Chatbot, Gráficos estadísticos con Chart.js, Componentes dinámicos y sidebar, Autenticación con Auth0, Seguridad con JWT y componentes de alerta, Pasarela de pagos y más...
   </p>
 
 </div>
@@ -81,7 +81,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Proyecto Individual: E-commerce</h3>
+<h3 align="center">Proyecto: E-commerce</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/coliveramispireta/assets-images/blob/main/Proyect2.JPG?raw=true" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
