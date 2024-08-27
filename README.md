@@ -70,7 +70,17 @@
 <img src="https://img.shields.io/badge/-DEMO-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>
+  Un e-commerce completo con:
+  <ul>
+    <li>Backend Express y Frontend NextJs</li>
+    <li>Login </li>
+    <li>Datos encriptados con JWT</li>
+    <li>Vinculación con Cloudinary para manejo de imágenes</li>
+    <li>Diseño responsive</li>
+    <li>Y mucho más...</li>
+  </ul>
+</p>
 </div>
                                                                                       
 </td>
@@ -89,7 +99,22 @@
 <img src="https://img.shields.io/badge/-DEMO-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>
+<p>
+  Un sistema completo que incluye:
+  <ul>
+    <li>Backend NestJs y Frontend NextJs</li>
+    <li>Geolocalización</li>
+    <li>Chat en tiempo real</li>
+    <li>Chatbot</li>
+    <li>Gráficos estadísticos con Chart.js</li>
+    <li>Componentes dinámicos y sidebar</li>
+    <li>Autenticación con Auth0</li>
+    <li>Seguridad con JWT y componentes de alerta</li>
+    <li>Pasarela de pagos</li>
+  </ul>
+</p>
+</p>
 </div>                                                             
 </table> 
 
