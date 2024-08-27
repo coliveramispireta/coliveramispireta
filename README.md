@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy  <a href="https://my-profile-phi-three.vercel.app/">Carlos Olivera Mispireta </a> 👋</h1>
+<h1 align="center">Hola, soy  <a href="https://my-profile-phi-three.vercel.app/" target="_blank">Carlos Olivera Mispireta </a> 👋</h1>
 <br>
 <img src="https://github.com/coliveramispireta/assets-images/blob/main/PortadaLinkedinSTUDENTS.png?raw=true" alt="" >
 
@@ -11,13 +11,13 @@
 <p>
   <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
     <img src="" alt="" style="vertical-align:middle; margin-right:10px;">
-    LinkedIn
+    - LinkedIn
   </a><br><br>
   <a href="https://my-profile-phi-three.vercel.app" target="_blank">
      <img src="" alt="" style="vertical-align:middle; margin-right:10px;">
-    My Profile
+    - My Profile
   </a><br>
-<p>Email: coliveramispireta@gmail.com</p>
+<p>- Email: coliveramispireta@gmail.com</p>
 </p>
 
 <hr>
