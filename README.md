@@ -27,7 +27,7 @@
 </ul>
 
 <hr>
-<br><br>
+<br>
 
 <h2>🛠️ Tecnologías y Herramientas</h2>
 
@@ -61,7 +61,7 @@
 <td width="50%">
 <h3 align="center">Sistema de Administración Empresa</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/coliveramispireta/assets-images/blob/main/Proyect.PNG?raw=true" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/WebAdminISP" target="_blank"><img src="https://github.com/coliveramispireta/assets-images/blob/main/Proyect.PNG?raw=true" width="400" alt=""></a>
 <p>
 <a href="https://github.com/WebAdminISP" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -83,7 +83,7 @@
                <br>
 <h3 align="center">E-commerce</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/coliveramispireta/assets-images/blob/main/Proyect2.JPG?raw=true" width="400" alt=""></a>
+<a href="https://github.com/coliveramispireta/storeProyec" target="_blank"><img src="https://github.com/coliveramispireta/assets-images/blob/main/Proyect2.JPG?raw=true" width="400" alt=""></a>
 <br>
 <p>
 <a href="https://github.com/coliveramispireta/storeProyec" target="_blank">
@@ -99,25 +99,22 @@
     Backend Express y Frontend NextJs, Login, Datos encriptados con JWT, Vinculación con Cloudinary para manejo de imágenes, Diseño responsive, y mucho más...  
   </p>
   <br>
-
-
-  
-
-
 </p>
 </div>                                                             
 </table> 
 
 
 
+  <br>
 
+<div align="center">
+ <h4>
+   Tengo por
+   <h2>🎯 Objetivos</h2>
+   Mejorar mis habilidades en <strong>optimización de rendimiento</strong> para aplicaciones Next.js y contribuir a proyectos <strong>open-source</strong> colaborando con otros desarrolladores.
+ </h4> 
+</div>
 
-
-<h2>🎯 Objetivos</h2>
-<ul>
-  <li>Mejorar mis habilidades en <strong>optimización de rendimiento</strong> para aplicaciones Next.js.</li>
-  <li>Contribuir a proyectos <strong>open-source</strong> y colaborar con otros desarrolladores.</li>
-</ul>
 
 
 
