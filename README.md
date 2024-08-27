@@ -109,7 +109,7 @@
 
 <div align="center">
  <h3>
-   Tengo por <strong> 🎯 Objetivos</strong> Mejorar mis habilidades en <strong>optimización de rendimiento</strong> para aplicaciones Next.js y contribuir a proyectos <strong>open-source</strong> colaborando con otros desarrolladores.
+   Tengo por <a> 🎯 Objetivo </a> Mejorar mis habilidades en <a>optimización de rendimiento</a> para aplicaciones Next.js y contribuir a proyectos <a>open-source</a> colaborando con otros desarrolladores.
  </h3> 
 </div>
 
