@@ -99,7 +99,7 @@
     Backend Express y Frontend NextJs, Login, Datos encriptados con JWT, Vinculación con Cloudinary para manejo de imágenes, Diseño responsive, y mucho más...  
   </p>
   <br>
-  
+  <br>
 
   
 
