@@ -32,13 +32,16 @@
 <h2>🛠️ Tecnologías y Herramientas</h2>
 
 <ul>
-   <li>
+   <li list-style-type="none">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/> &nbsp;&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="80" height="80"/>&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"  width="80" height="80"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"  width="80" height="80"/> &nbsp;&nbsp;
+</li>
+<br>
+   <li list-style-type="none">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="80" height="80"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="80" height="80"/> &nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"  width="80" height="80"/> &nbsp;&nbsp;
