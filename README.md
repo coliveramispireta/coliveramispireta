@@ -59,7 +59,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto: Sistema de Administración Empresa</h3>
+<h3 align="center">Sistema de Administración Empresa</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/coliveramispireta/assets-images/blob/main/Proyect.PNG?raw=true" width="400" alt="Curso básico android"></a>
 <p>
@@ -81,7 +81,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Proyecto: E-commerce</h3>
+<h3 align="center">E-commerce</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/coliveramispireta/assets-images/blob/main/Proyect2.JPG?raw=true" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
