@@ -83,7 +83,7 @@
                <br>
 <h3 align="center">E-commerce</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/coliveramispireta/assets-images/blob/main/Proyect2.JPG?raw=true" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/coliveramispireta/assets-images/blob/main/Proyect2.JPG?raw=true" width="400" alt=""></a>
 <br>
 <p>
 <a href="https://github.com/coliveramispireta/storeProyec" target="_blank">
@@ -96,8 +96,9 @@
 </p>
   <h3> Un e-commerce completo que incluye: </h3>
   <p>
-    Backend Express y Frontend NextJs, Login, Datos encriptados con JWT, Vinculación con Cloudinary para manejo de imágenes, Diseño responsive, y mucho más... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Backend Express y Frontend NextJs, Login, Datos encriptados con JWT, Vinculación con Cloudinary para manejo de imágenes, Diseño responsive, y mucho más...  
   </p>
+  <br>
   
 
   
