@@ -10,12 +10,12 @@
 <h2>🌐 Encuéntrame en:</h2>
 <ul>
    <li>
-  <h4> <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+  <h4> <a href="linkedin.com/in/coliveramispireta" target="_blank">
      LinkedIn
   </a> </h4>
      </li>
   <li>
-    <h4> <a href="https://my-profile-phi-three.vercel.app" target="_blank">
+    <h4> <a href="https://coliveramispireta.vercel.app" target="_blank">
      My Profile
   </a> </h4>
   </li>
@@ -107,11 +107,11 @@
 
  <h3 align="center">
  🎯  Tengo por 
-   <a href="https://my-profile-phi-three.vercel.app/" target="_blank">  Objetivo </a> 
+   <a href="https://coliveramispireta.vercel.app" target="_blank">  Objetivo </a> 
    Mejorar mis habilidades en 
-   <a href="https://my-profile-phi-three.vercel.app/">optimización de rendimiento</a> 
+   <a href="https://coliveramispireta.vercel.app">optimización de rendimiento</a> 
    para aplicaciones Next.js y contribuir a proyectos 
-   <a href="https://my-profile-phi-three.vercel.app/"> open-source</a> 
+   <a href="https://coliveramispireta.vercel.app"> open-source</a> 
    colaborando con otros desarrolladores.
  </h3> 
 
